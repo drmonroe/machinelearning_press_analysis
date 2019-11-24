@@ -19,4 +19,4 @@ Research Paper: https://arxiv.org/abs/1911.05652
 
 # Visualization
 
-![Shakespeare Analysis](https://mlabshare.blob.core.windows.net/malbshare/Regulations_Listing.png)
+![Shakespeare Analysis](https://mlabshare.blob.core.windows.net/malbshare/Shakespeare-Neural-Network-Story-Flow.png)
