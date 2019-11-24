@@ -1,4 +1,4 @@
-# machinelearning_press_analysis
+# Machinelearning Press Analysis
 This repo will be used to collect my visualizations of press accounts of machine learning developments.
 
 Everyday there are media accouunts about developments in the general field of articficial intelliegence (often loosely defined) and machine learning. These accounts are interpretations or distillations or sometimes, even hyped versions of research papers which are the source of their subject.
