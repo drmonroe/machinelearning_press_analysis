@@ -7,7 +7,8 @@ In this repo, I'll collect my attempts to visualize the contents of media accoun
 
 
 # Shakespeare/Fletcher Textual Analysis
-Media Outlet: MIT Technology Review
+Media Outlet: MIT Technology Review 
+"Machine learning has revealed exactly how much of a Shakespeare play was written by someone else"
 
 URL: https://bit.ly/35ucQg9
 
@@ -15,7 +16,8 @@ Synopsis:
 
 Text analysis is applied to Henry VIII to identify the relative points of contribution by John Fletcher and Shakespeare (per the 19th century work of James Spedding)
 
-Research Paper: https://arxiv.org/abs/1911.05652
+Research Paper: "Relative contributions of Shakespeare and Fletcher in Henry VIII: An Analysis Based on Most Frequent Words and Most Frequent Rhythmic Patterns"
+https://arxiv.org/abs/1911.05652
 
 # Visualization
 
