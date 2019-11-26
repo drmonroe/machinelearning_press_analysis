@@ -4,7 +4,7 @@ Synopsis
 
 This repo will be used to collect my visualizations of press accounts of machine learning developments.
 
-Everyday there are media accouunts about developments in the general field of artificial intelligence (often loosely defined) and machine learning. These accounts are interpretations or distillations or sometimes, hyped versions of the research papers which are the source of their subject.
+Everyday there are media accounts about developments in the general field of artificial intelligence (often loosely defined) and machine learning. These accounts are interpretations or distillations or sometimes, hyped versions of the research papers which are the source of their subject.
 
 In this repo, I'll collect my attempts to visualize the contents of media accounts to determine how accurately they reflect the contents of the source material
 
