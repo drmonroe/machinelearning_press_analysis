@@ -44,3 +44,7 @@ https://arxiv.org/abs/1911.05652
 # Visualization
 
 ![Shakespeare Analysis](https://mlabshare.blob.core.windows.net/malbshare/Shakespeare-Neural-Network-Story-Flow.png)
+
+Conclusion:  The MIT account accurately reflect the results described in te reasearch paper which are impressive but narrowly focused (i.e., an excellent and creative application of textual analysis without any excessive claims).
+
+
