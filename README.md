@@ -8,6 +8,22 @@ Everyday there are media accouunts about developments in the general field of ar
 
 In this repo, I'll collect my attempts to visualize the contents of media accounts to determine how accurately they reflect the contents of the source material
 
+Full disclosure: my position on AI and ML is shaped, in large measure, by the work of two researchers who've also (perhaps reluctantly) taken on the role of myth and misinformation busters regarding real vs. hyped capabilities:
+
+# Rodney Brooks
+
+Twitter:  https://twitter.com/rodneyabrooks
+
+Essay on the state of artifical general intelligence (AGI): https://rodneybrooks.com/agi-has-been-delayed/
+
+
+# Gary Marcus
+
+Presentation on AGI (Why we Aren't There Yet): https://youtu.be/7dnN3P2bCJo
+
+Twitter:  https://twitter.com/GaryMarcus
+
+
 
 # Shakespeare/Fletcher Textual Analysis
 
