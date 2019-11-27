@@ -57,7 +57,7 @@ URL: https://worldin.economist.com/article/17521/edition2020artificial-intellige
 
 ## Synopsis:  
 
-Economist reporter Tom Standage claims to have conducted an interview with OpenAI's GPT-2 (Generative Pre-Training) language generator. It's *implied* that the interview was a traditional question and answer, give and take and that, GPT-2, therefore, is an AGI capable of a conducting a coherent, ad-hoc conversation. This is challenged on Twitter by Gary Marcus, among others.  GPT-2 is able to generate responses but is unable to do so within the context of an actual conversation (language generation isn't the same thing as language comprehension).
+Economist reporter Tom Standage claims to have conducted an interview with OpenAI's GPT-2 (Generative Pre-Training) language generator. It's *implied* that the interview was a traditional question and answer, give and take and that, GPT-2, therefore, is an AGI capable of participating in a coherent, ad-hoc conversation. This is challenged on Twitter by Gary Marcus, among others.  GPT-2 is able to generate responses but is unable to do so within the context of an actual conversation (language generation isn't the same thing as language comprehension).
 
 
 Medium published story about GPT-2:
