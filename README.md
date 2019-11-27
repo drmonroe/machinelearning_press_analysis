@@ -6,19 +6,19 @@ This repo will be used to collect my visualizations and assessments of press acc
 
 Everyday there are media accounts about developments in the general field of artificial intelligence (often loosely defined) and machine learning. These accounts are interpretations or distillations or sometimes, hyped versions of the research papers which are the source of their subject.
 
-In this repo, I'll collect my attempts to visualize (or, if visualization isn't possible, assessments) the contents of media accounts to determine how accurately they reflect the contents of the source material
+In this repo, I'll collect my attempts to visualize (or, if visualization isn't possible, assess) the contents of media accounts to determine how accurately they reflect the contents of the source material
 
 Full disclosure: my position on the current state AI and ML is shaped, in large measure, by the work of two researchers who've (perhaps reluctantly) taken on the role of myth and misinformation busters regarding real vs. hyped capabilities:
 
 
-# Rodney Brooks
+## Rodney Brooks
 
 Twitter:  https://twitter.com/rodneyabrooks
 
 Essay on the state of artifical general intelligence (AGI): https://rodneybrooks.com/agi-has-been-delayed/
 
 
-# Gary Marcus
+## Gary Marcus
 
 Presentation on AGI (Why we Aren't There Yet): https://youtu.be/7dnN3P2bCJo
 
@@ -29,11 +29,11 @@ Twitter:  https://twitter.com/GaryMarcus
 # Shakespeare/Fletcher Textual Analysis
 
 # Media Outlet: MIT Technology Review 
-"Machine learning has revealed exactly how much of a Shakespeare play was written by someone else"
+## "Machine learning has revealed exactly how much of a Shakespeare play was written by someone else"
 
 URL: https://bit.ly/35ucQg9
 
-Synopsis:
+## Synopsis:
 
 Text analysis is applied to Henry VIII to identify the relative points of contribution by John Fletcher and Shakespeare (per the 19th century work of James Spedding)
 
@@ -66,7 +66,9 @@ https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupe
 
 ## Synopsis:  
 
-Economist reporter Tom Standage claims to have conducted an interview with OpenAI's GPT-2 (Generative Pre-Training) language generator. It's implied that the interview was a traditional question and answer, give and take. This is challenged on Twitter by Gary Marcus, among others:
+Economist reporter Tom Standage claims to have conducted an interview with OpenAI's GPT-2 (Generative Pre-Training) language generator. It's implied that the interview was a traditional question and answer, give and take. This is challenged on Twitter by Gary Marcus, among others.  GPT-2 is able to generate responses but is unable to do so within the context of an actual conversation (language generation isn't the same thing as language comprehension).
+
+
 
 Twitter thread:
 
