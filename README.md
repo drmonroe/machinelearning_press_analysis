@@ -54,6 +54,12 @@ Conclusion:  The MIT account accurately reflect the results described in te reas
 
 URL: https://worldin.economist.com/article/17521/edition2020artificial-intelligence-predicts-future
 
+
+## Synopsis:  
+
+Economist reporter Tom Standage claims to have conducted an interview with OpenAI's GPT-2 (Generative Pre-Training) language generator. It's *implied* that the interview was a traditional question and answer, give and take and that, GPT-2, therefore, is an AGI capable of a conducting a coherent, ad-hoc conversation. This is challenged on Twitter by Gary Marcus, among others.  GPT-2 is able to generate responses but is unable to do so within the context of an actual conversation (language generation isn't the same thing as language comprehension).
+
+
 Medium published story about GPT-2:
 
 https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8
@@ -64,9 +70,7 @@ https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupe
 
 
 
-## Synopsis:  
 
-Economist reporter Tom Standage claims to have conducted an interview with OpenAI's GPT-2 (Generative Pre-Training) language generator. It's implied that the interview was a traditional question and answer, give and take. This is challenged on Twitter by Gary Marcus, among others.  GPT-2 is able to generate responses but is unable to do so within the context of an actual conversation (language generation isn't the same thing as language comprehension).
 
 
 
