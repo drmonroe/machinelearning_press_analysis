@@ -1,6 +1,6 @@
 # Machine Learning Press Analysis
 
-Synopsis
+## Synopsis
 
 This repo will be used to collect my visualizations and assessments of press accounts of machine learning developments. I'll also include links to others' analyses. 
 
