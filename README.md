@@ -2,13 +2,14 @@
 
 Synopsis
 
-This repo will be used to collect my visualizations of press accounts of machine learning developments.
+This repo will be used to collect my visualizations and assessments of press accounts of machine learning developments. I'll also include links to others' analyses. 
 
 Everyday there are media accounts about developments in the general field of artificial intelligence (often loosely defined) and machine learning. These accounts are interpretations or distillations or sometimes, hyped versions of the research papers which are the source of their subject.
 
-In this repo, I'll collect my attempts to visualize the contents of media accounts to determine how accurately they reflect the contents of the source material
+In this repo, I'll collect my attempts to visualize (or, if visualization isn't possible, assessments) the contents of media accounts to determine how accurately they reflect the contents of the source material
 
 Full disclosure: my position on the current state AI and ML is shaped, in large measure, by the work of two researchers who've (perhaps reluctantly) taken on the role of myth and misinformation busters regarding real vs. hyped capabilities:
+
 
 # Rodney Brooks
 
@@ -46,5 +47,34 @@ https://arxiv.org/abs/1911.05652
 ![Shakespeare Analysis](https://mlabshare.blob.core.windows.net/malbshare/Shakespeare-Neural-Network-Story-Flow.png)
 
 Conclusion:  The MIT account accurately reflect the results described in te reasearch paper which are impressive but narrowly focused (i.e., an excellent and creative application of textual analysis without any excessive claims).
+
+
+
+# Media Outlet - The Economist: "An Artificial Intelligence Predicts the Future"
+
+URL: https://worldin.economist.com/article/17521/edition2020artificial-intelligence-predicts-future
+
+Medium published story about GPT-2:
+
+https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8
+
+OpenAI GPT-2 Research Paper:
+
+https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
+
+
+
+## Synopsis:  
+
+Economist reporter Tom Standage claims to have conducted an interview with OpenAI's GPT-2 (Generative Pre-Training) language generator. It's implied that the interview was a traditional question and answer, give and take. This is challenged on Twitter by Gary Marcus, among others:
+
+Twitter thread:
+
+https://twitter.com/garymarcus/status/1199146018178138112?s=11
+
+
+![OpenAI_Interview_Story](https://mlabshare.blob.core.windows.net/malbshare/Economist-OpenAI-Story.png)
+
+
 
 
