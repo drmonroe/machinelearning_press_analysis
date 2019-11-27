@@ -68,6 +68,10 @@ OpenAI GPT-2 Research Paper:
 
 https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf
 
+Gary Marcus Wired story referencing GPT-2 ("If Computers are So Smart, How Come They Can't Read")
+
+https://www.wired.com/story/adaptation-if-computers-are-so-smart-how-come-they-cant-read/
+
 
 
 
