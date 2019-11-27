@@ -9,7 +9,7 @@ Suggestions and ideas are welcome. You can send them to: Cloudquistador@monroela
 
 Everyday there are media accounts about developments in the general field of artificial intelligence (often loosely defined) and machine learning. These accounts are interpretations or distillations or sometimes, hyped versions of the research papers which are the source of their subject.
 
-In this repo, I'll collect my attempts to visualize (or, if visualization isn't possible, assess) the contents of media accounts to determine how accurately they reflect the contents of the source material or if they reflect the actually existing state of the art (rather than hyped or misunderstood capabilities).
+In this repo, I'll collect my attempts to visualize (or, if visualization isn't possible, assess) the contents of media accounts to determine how accurately they reflect the research source material or if they reflect the actually existing state of the art (rather than hyped or misunderstood capabilities).
 
 Full disclosure: my position on the current state AI and ML is shaped, in large measure, by the work of two researchers who've (perhaps reluctantly) taken on the role of myth and misinformation busters regarding real vs. hyped capabilities:
 
