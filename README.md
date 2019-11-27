@@ -4,6 +4,9 @@
 
 This repo will be used to collect my visualizations and assessments of press accounts of machine learning developments. I'll also include links to others' analyses. 
 
+Suggestions and ideas are welcome. You can send them to: Cloudquistador@monroelab.com
+
+
 Everyday there are media accounts about developments in the general field of artificial intelligence (often loosely defined) and machine learning. These accounts are interpretations or distillations or sometimes, hyped versions of the research papers which are the source of their subject.
 
 In this repo, I'll collect my attempts to visualize (or, if visualization isn't possible, assess) the contents of media accounts to determine how accurately they reflect the contents of the source material or if they reflect the actually existing state of the art (rather than hyped or misunderstood capabilities).
