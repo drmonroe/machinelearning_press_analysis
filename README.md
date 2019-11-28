@@ -1,10 +1,13 @@
 # Machine Learning Press Analysis
 
-## Synopsis
+## Intro
 
 This repo will be used to collect my visualizations and assessments of press accounts of machine learning developments. I'll also include links to others' analyses. 
 
 Suggestions and ideas are welcome. You can send them to: Cloudquistador@monroelab.com
+Use the subject heading, 'ML Press'
+
+## Synopsis
 
 
 Everyday there are media accounts about developments in the general field of artificial intelligence (often loosely defined) and machine learning. These accounts are interpretations or distillations or sometimes, hyped versions of the research papers which are the source of their subject.
@@ -26,6 +29,15 @@ Essay on the state of artifical general intelligence (AGI): https://rodneybrooks
 Presentation on AGI (Why we Aren't There Yet): https://youtu.be/7dnN3P2bCJo
 
 Twitter:  https://twitter.com/GaryMarcus
+
+
+Contents to-date
+
+- Shakespeare/Fletcher Textual Analysis
+- The Economist: "An Artificial Intelligence Predicts the Future"
+
+
+######################
 
 
 
