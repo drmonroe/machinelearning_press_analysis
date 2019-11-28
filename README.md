@@ -31,13 +31,21 @@ Presentation on AGI (Why we Aren't There Yet): https://youtu.be/7dnN3P2bCJo
 Twitter:  https://twitter.com/GaryMarcus
 
 
-Contents to-date
+## Contents to-date
 
-- Shakespeare/Fletcher Textual Analysis
-- The Economist: "An Artificial Intelligence Predicts the Future"
+[Shakespeare/Flecther Contribution Analysis](https://github.com/drmonroe/machinelearning_press_analysis/blob/master/README.md#shakespearefletcher-textual-analysis)
 
 
-######################
+
+[Economist Reporter Claims to Interview GPT-2](https://github.com/drmonroe/machinelearning_press_analysis/blob/master/README.md#media-outlet---the-economist-an-artificial-intelligence-predicts-the-future)
+
+
+
+
+#################################################################
+
+
+
 
 
 
