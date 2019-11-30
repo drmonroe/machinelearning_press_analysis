@@ -40,7 +40,7 @@ Twitter:  https://twitter.com/GaryMarcus
 [Economist Reporter Claims to Interview GPT-2](https://github.com/drmonroe/machinelearning_press_analysis/blob/master/README.md#media-outlet---the-economist-an-artificial-intelligence-predicts-the-future)
 
 
-
+More to come soon!
 
 #################################################################
 
