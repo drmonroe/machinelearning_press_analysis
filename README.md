@@ -40,6 +40,9 @@ Twitter:  https://twitter.com/GaryMarcus
 [Economist Reporter Claims to Interview GPT-2](https://github.com/drmonroe/machinelearning_press_analysis/blob/master/README.md#media-outlet---the-economist-an-artificial-intelligence-predicts-the-future)
 
 
+[The Gradient Article by Gary Marcus](https://thegradient.pub/an-epidemic-of-ai-misinformation/)
+
+
 More to come soon!
 
 #################################################################
@@ -111,6 +114,28 @@ https://twitter.com/garymarcus/status/1199146018178138112?s=11
 
 
 ![OpenAI_Interview_Story](https://mlabshare.blob.core.windows.net/malbshare/Economist-OpenAI-Story.png)
+
+
+
+# Gradient Article by Gary Marcus about the Dangers of Hype in AI, "An Epidemic of AI Misinformation"
+
+Link: https://thegradient.pub/an-epidemic-of-ai-misinformation/
+
+AI Winter: https://en.wikipedia.org/wiki/AI_winter
+
+
+
+## Synopsis:
+
+AI researcher Gary Marcus write about the impact of misinformation and exaggeration of capabilties on the field of AI.  The primary argument is that, as real abilities fail to match the hype, a new AI Winter may set in (i.e., research will slow down, interest will wane from funding sources, slowing progress towards actually achievable goals).
+
+## An excerpt:
+
+
+*"The media is often tempted to report each tiny new advance in a field, be it AI or nanotechnology, as a great triumph that will soon fundamentally alter our world. Occasionally, of course, new discoveries are underreported. The transistor did not make huge waves when it was first introduced, and few people initially appreciated the full potential of the Internet. But for every transistor and Internet, there are thousands or tens of thousands of minor results that are overrreported, products and ideas that never materialized, purported advances like cold fusion that have not been replicated, and experiments that lie on blind alleys that don't ultimately reshape the world, contrary to their enthusiastic initial billing."*
+
+[...]
+
 
 
 
