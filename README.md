@@ -43,7 +43,23 @@ Twitter:  https://twitter.com/GaryMarcus
 [The Gradient Article by Gary Marcus](https://thegradient.pub/an-epidemic-of-ai-misinformation/)
 
 
-More to come soon!
+## Pending reading 
+
+* MIT Technology Review: Link Between Deep Neural Networks and the Universe's Structure (as expressed via math): 
+
+https://bit.ly/2t819Oa
+
+* Paper cited in MIT article: Why Does Deep Learning Work So Well?
+
+https://arxiv.org/pdf/1608.08225.pdf
+
+* Ernest Davis Paper: The Use of Deep Learning for Symbolic Integration: A Review of (Lample and Charton, 2019)
+
+https://arxiv.org/abs/1912.05752
+
+
+
+
 
 #################################################################
 
