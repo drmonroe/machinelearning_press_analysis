@@ -58,7 +58,32 @@ https://arxiv.org/pdf/1608.08225.pdf
 https://arxiv.org/abs/1912.05752
 
 
+## Yoshua Bengio Reading List
 
+BabyAI: First Steps Towards Grounded Language Learning With a Human In the Loop
+
+https://arxiv.org/abs/1810.08272v2
+
+
+A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms, Bengio et al., 2019: 
+
+
+https://arxiv.org/abs/1901.10912
+
+
+Learning Neural Causal Models from Unknown Interventions, Ke et al., 2019: 
+
+https://arxiv.org/abs/1910.01075
+
+
+Recurrent Independent Mechanisms, Goyal et al., 2019: 
+
+https://arxiv.org/abs/1909.10893
+
+
+The Consciousness Prior, Bengio et al., 2017: 
+
+https://arxiv.org/abs/1709.08568
 
 
 #################################################################
