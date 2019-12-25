@@ -57,6 +57,10 @@ https://arxiv.org/pdf/1608.08225.pdf
 
 https://arxiv.org/abs/1912.05752
 
+* Judea Pearl: The Seven Tools of Causal Inference, with Reflections on Machine Learning
+
+https://ftp.cs.ucla.edu/pub/stat_ser/r481-reprint.pdf
+
 
 ## Yoshua Bengio Reading List (Bengio CV: https://mila.quebec/en/person/bengio-yoshua/)
 
