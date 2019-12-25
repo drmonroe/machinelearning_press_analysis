@@ -90,6 +90,11 @@ The Consciousness Prior, Bengio et al., 2017:
 https://arxiv.org/abs/1709.08568
 
 
+(NeurIPS Presentation): From System 1 Deep Learning to System 2 Deep Learning
+
+
+https://slideslive.com/38921750/from-system-1-deep-learning-to-system-2-deep-learning
+
 #################################################################
 
 
