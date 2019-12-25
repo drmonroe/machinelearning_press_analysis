@@ -58,7 +58,7 @@ https://arxiv.org/pdf/1608.08225.pdf
 https://arxiv.org/abs/1912.05752
 
 
-## Yoshua Bengio Reading List
+## Yoshua Bengio Reading List (Bengio CV: https://mila.quebec/en/person/bengio-yoshua/)
 
 BabyAI: First Steps Towards Grounded Language Learning With a Human In the Loop
 
